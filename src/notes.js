@@ -22,7 +22,14 @@
 //make sure it imports on top lines of app.js
 //create a CatchAll.js file and fill in
 // the catch all lets users get an error msg when they on wrong path
-        
+
+//create a form by adding a router in app.js always above catch
+//create a form.js and fill in  and add import form on app.js first lines
+// add a link in app.js for forms <Link to = "form">Form</Link>
+// in form.js create a form element below return and in function
+//create a button for submit on form.js
+//add use state and value placeholder and onchange on form.js
+//catch is always last to catch all routes
 //if it starts w the word use its a hook. "use params is a hook"
 
 //yarn start to see router
